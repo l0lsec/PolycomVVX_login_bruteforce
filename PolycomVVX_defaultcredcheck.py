@@ -15,7 +15,7 @@ https://10.10.97.24
 my-hostname.local
 
 Usage:
-  python3 login_bruteforce.py --file hosts.txt
+  python3 PolycomVVX_defaultcredcheck.py --file hosts.txt
 
 Optional:
   --path /form-submit/auth.htm (default)
