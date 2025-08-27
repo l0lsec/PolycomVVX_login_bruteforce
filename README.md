@@ -2,7 +2,7 @@
 
 Login checker for endpoints that use Basic Authentication on `/form-submit/auth.htm`.
 
-The script tries two credential combinations against each host/URL:
+The script tries two default credential combinations against each host/URL:
 - Polycom:456
 - User:123
 
