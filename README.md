@@ -1,4 +1,4 @@
-## Polycom VVX Default CredentiaL Checker
+## Polycom VVX Default Credential Checker
 
 Login checker for endpoints that use Basic Authentication on `/form-submit/auth.htm`.
 
