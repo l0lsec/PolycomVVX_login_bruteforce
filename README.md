@@ -1,4 +1,4 @@
-## Polycom VVX Login Brute Force Checker
+## Polycom VVX Default CredentiaL Checker
 
 Login checker for endpoints that use Basic Authentication on `/form-submit/auth.htm`.
 
@@ -20,7 +20,7 @@ https://10.10.96.7:443
 ### Usage
 
 ```bash
-python3 PolycomVVX_login_bruteforce.py --file hosts.txt
+python3 PolycomVVX_defaultcredcheck.py --file hosts.txt
 
 # Optional flags
 #   --path /form-submit/auth.htm   # override endpoint path
